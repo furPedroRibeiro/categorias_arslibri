@@ -83,4 +83,7 @@ h1{
     .card footer{
         opacity: 1;
     }
+    .card:hover{
+        transform: none;
+    }
 }
